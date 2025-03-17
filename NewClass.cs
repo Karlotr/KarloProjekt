@@ -8,5 +8,6 @@ namespace KarloProjekt
 {
     internal class NewClass
     {
+        //asdasdasasdasdasdasd
     }
 }
